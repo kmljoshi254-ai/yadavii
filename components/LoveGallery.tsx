@@ -36,18 +36,7 @@ const images = [
   "/ref/girl11.jpg",
 ];
 
-const captions = [
-  "Cutie 🥹",
-  "Baddie 😎",
-  "Pretty ✨",
-  "My Love 🤍",
-  "Sunshine ☀️",
-  "Angel 🪽",
-  "Beautiful 🌸",
-  "Dream Girl 💫",
-  "Queen 👑",
-  "Always You 🫶",
-];
+const captions = ["Baddie","Angel 🪽","Dreamgirl","Sweetheart","Icon","Stunner","Babe","Darling","Sunshine","Queen","Heartstealerrr"];
 
 const positions = [
   "top-[6%] left-[8%] rotate-[-11deg] sm:top-[8%] sm:left-[8%] sm:right-auto sm:bottom-auto sm:rotate-[-8deg]",

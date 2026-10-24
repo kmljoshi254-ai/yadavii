@@ -79,19 +79,18 @@ function CardProvider({ children }: { children: React.ReactNode }) {
   const [selectedCard, setSelectedCard] = useState<Card | null>(null)
 
   const cards: Card[] = [
-    // { id: "1", imageUrl: "/ref/💜.jpg", alt: "Cutie", title: "Cutie" },
-    { id: "2", imageUrl: "/ref/girl.jpg", alt: "Baddie", title: "Baddie" },
-    { id: "3", imageUrl: "/ref/girl2.jpg", alt: "Angel", title: "Angel" },
-    { id: "4", imageUrl: "/ref/girl3.jpg", alt: "Dreamgirl", title: "Dreamgirl" },
-    { id: "5", imageUrl: "/ref/girl4.jpg", alt: "Sweetheart", title: "Sweetheart" },
-    { id: "6", imageUrl: "/ref/girl5.jpg", alt: "Icon", title: "Icon" },
-    { id: "7", imageUrl: "/ref/girl6.jpg", alt: "Stunner", title: "Stunner" },
-    { id: "8", imageUrl: "/ref/girl7.jpg", alt: "Babe", title: "Babe" },
-    { id: "9", imageUrl: "/ref/girl8.jpg", alt: "Darling", title: "Darling" },
-    { id: "10", imageUrl: "/ref/girl9.jpg", alt: "Sunshine", title: "Sunshine" },
-    { id: "11", imageUrl: "/ref/girl10.jpg", alt: "Queen", title: "Queen" },
-    { id: "12", imageUrl: "/ref/girl11.jpg", alt: "Heartbreaker", title: "Heartbreaker" },
-  ]
+  { id: "2", imageUrl: "/ref/girl.jpg", alt: "Baddie", title: "Baddie" },
+  { id: "3", imageUrl: "/ref/girl2.jpg", alt: "Angel 🪽", title: "Angel 🪽" },
+  { id: "4", imageUrl: "/ref/girl3.jpg", alt: "Dreamgirl", title: "Dreamgirl" },
+  { id: "5", imageUrl: "/ref/girl4.jpg", alt: "Sweetheart", title: "Sweetheart" },
+  { id: "6", imageUrl: "/ref/girl5.jpg", alt: "Icon", title: "Icon" },
+  { id: "7", imageUrl: "/ref/girl6.jpg", alt: "Stunner", title: "Stunner" },
+  { id: "8", imageUrl: "/ref/girl7.jpg", alt: "Babe", title: "Babe" },
+  { id: "9", imageUrl: "/ref/girl8.jpg", alt: "Darling", title: "Darling" },
+  { id: "10", imageUrl: "/ref/girl9.jpg", alt: "Sunshine", title: "Sunshine" },
+  { id: "11", imageUrl: "/ref/girl10.jpg", alt: "Queen", title: "Queen" },
+  { id: "12", imageUrl: "/ref/girl11.jpg", alt: "Heartstealerrr", title: "Heartstealerrr" },
+];
 
   // const cards: Card[] = [
   // { id: "1", imageUrl: "/pipis/pipi1.jpg", alt: "Cutie", title: "Cutie" },
